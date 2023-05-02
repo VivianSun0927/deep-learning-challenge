@@ -20,3 +20,5 @@ From Alphabet Soup’s business team, you have received a CSV containing more th
 - IS_SUCCESSFUL—Was the money used effectively
 
 ## Data Preprocessing
+
+## Compiling, Training, and Evaluating the Model
